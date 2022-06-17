@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="hint">Enter topic</string>
+    <string name="no_books_found">No article found.</string>
+    <string name="Title">title</string>
+    <string name="no_news_found">No news found.</string>
+    <string name="no_internet">There is no internet connection.</string>
+    <string name="search_you_queried">Searched: </string>
+    <string name="search_title">Search</string>
+</resources>
